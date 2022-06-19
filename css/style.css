@@ -1,0 +1,13 @@
+.container {
+    width: 75%;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.image-container img {
+    width: 500px;
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+}
+
